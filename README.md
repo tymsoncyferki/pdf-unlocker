@@ -1,2 +1,2 @@
 # pdf-unlocker
-unlocks pdf files
+unlocks pdf files from statistics
