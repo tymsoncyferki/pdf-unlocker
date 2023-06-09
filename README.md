@@ -18,5 +18,3 @@ If you want to use current working directory run
 ```
 python unlock.py -c
 ```
-<br>
-Gui is not ready to use.
